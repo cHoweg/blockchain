@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8888b4fa-4bc8-4df0-8e21-db4d93e19d65" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1hdcV4o2YMeffPW7Pic1tSQ5Ter" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RSACoderTest.testEncrypt">
+    <configuration name="BlockServiceTest.testBlockMine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blockchain" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BlockServiceTest" />
+      <option name="METHOD_NAME" value="testBlockMine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RSACoderTest.testEncrypt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blockchain" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RSACoderTest" />
+      <option name="METHOD_NAME" value="testEncrypt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RSACoderTest.testSign" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="blockchain" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RSACoderTest" />
+      <option name="METHOD_NAME" value="testSign" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RSACoderTest.testEncrypt" />
+        <item itemvalue="JUnit.RSACoderTest.testSign" />
+        <item itemvalue="JUnit.BlockServiceTest.testBlockMine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8888b4fa-4bc8-4df0-8e21-db4d93e19d65" name="默认更改列表" comment="" />
+      <created>1600344430310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600344430310</updated>
+      <workItem from="1600344433127" duration="6869000" />
+      <workItem from="1600605189159" duration="4555000" />
+      <workItem from="1600693474542" duration="4207000" />
+      <workItem from="1600742646272" duration="1407000" />
+      <workItem from="1600828522066" duration="6842000" />
+      <workItem from="1601084295776" duration="3660000" />
+      <workItem from="1601124307603" duration="1754000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1078" y="248" key="#com.intellij.ide.util.MemberChooser" timestamp="1601088848122">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1078" y="248" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1601088848122" />
+    <state x="1089" y="279" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1600607657434">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="1089" y="279" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600607657434" />
+    <state x="865" y="190" key="#项目结构" timestamp="1600344988013">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="865" y="190" key="#项目结构/0.0.1680.1050@0.0.1680.1050" timestamp="1600344988013" />
+    <state x="705" y="437" key="Github.ShareDialog" timestamp="1602679984099">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="705" y="437" key="Github.ShareDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1602679984099" />
+    <state x="566" y="251" key="Github.UntrackedFilesDialog" timestamp="1602680001508">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="566" y="251" key="Github.UntrackedFilesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1602680001508" />
+    <state width="298" height="363" key="GridCell.Tab.0.bottom" timestamp="1600705253896">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="298" height="363" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1600705253896" />
+    <state width="298" height="363" key="GridCell.Tab.0.center" timestamp="1600705253895">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="298" height="363" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1600705253895" />
+    <state width="298" height="363" key="GridCell.Tab.0.left" timestamp="1600705253895">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="298" height="363" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1600705253895" />
+    <state width="298" height="363" key="GridCell.Tab.0.right" timestamp="1600705253896">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="298" height="363" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1600705253896" />
+    <state width="298" height="363" key="GridCell.Tab.1.bottom" timestamp="1600705253897">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="298" height="363" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1600705253897" />
+    <state width="298" height="363" key="GridCell.Tab.1.center" timestamp="1600705253897">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="298" height="363" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1600705253897" />
+    <state width="298" height="363" key="GridCell.Tab.1.left" timestamp="1600705253896">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="298" height="363" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1600705253896" />
+    <state width="298" height="363" key="GridCell.Tab.1.right" timestamp="1600705253897">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="298" height="363" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1600705253897" />
+    <state x="756" y="187" key="Maven.ArtifactSearchDialog" timestamp="1600345055264">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="756" y="187" key="Maven.ArtifactSearchDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600345055264" />
+    <state x="656" y="106" key="SettingsEditor" timestamp="1600608305574">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="656" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1600608305574" />
+    <state x="930" y="233" key="search.everywhere.popup" timestamp="1600345371486">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="930" y="233" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1600345371486" />
+  </component>
+</project>
